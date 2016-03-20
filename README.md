@@ -4,7 +4,11 @@ Collective bargaining to buy at discounted prices directly from suppliers.
 
 #### Customer hypothesis
 
+Vegans
+
 #### Problem hypothesis
+
+Running out of seed products you use daily disrupts your tranquility
 
 #### Design experiments
 
