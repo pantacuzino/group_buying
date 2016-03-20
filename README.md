@@ -28,3 +28,15 @@ Exploration
 ###### Minimum Success Criterion
 
 5 out of 20
+
+#### Customer Interview Questions
+
+1. What's the hardest part about running out of a seed product such as sesame, hempseed, flaxseed you use regularly?
+
+2. Can you tell me about the last time that happened?
+
+3. Why was that hard?
+
+4. What, if anything, have you done to solve that problem?
+
+5. What don’t you love about the solutions you’ve tried?
